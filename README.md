@@ -1,4 +1,4 @@
-# Sanity Studio for Shopify Projects
+# This Is a project I further dove into sanity for my backend
 
 <p><img src="https://user-images.githubusercontent.com/209129/173606241-ae6694f7-57f0-4ed7-9d05-60c563c4233b.png" width="800" /></p>
 
